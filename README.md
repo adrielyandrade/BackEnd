@@ -1,4 +1,4 @@
-# Programming and Languages Study Repository
+# BackEnd Study Repository
 
 This repository is dedicated to storing my programming exercises and study projects. The goal is to deepen my understanding of **Java** and **Python** through classroom learning, online courses, and hands-on practice.
 
