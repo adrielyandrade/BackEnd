@@ -1,40 +1,40 @@
 # Programming and Languages Study Repository
 
-This repository is dedicated to storing my exercises and projects. The purpose is to enhance my understanding of the language and apply what I learn in college, complementing my coursework and assignments.
+This repository is dedicated to storing my programming exercises and study projects. The goal is to deepen my understanding of **Java** and **Python** through classroom learning, online courses, and hands-on practice.
 
 ## Repository Structure
 
-- **exercises/**: Contains programming exercises to reinforce basic concepts.
-- **projects/**: Includes practical projects that apply advanced concepts.
+- **exercises/**: Contains programming exercises to reinforce fundamental concepts.
+- **projects/**: Includes practical projects that apply more advanced concepts.
 
 ## Repository Rules
 
-1. **Content**: Only exercises and projects for study purposes. Do not include personal or commercial tasks.
-2. **Organization**: Clear and consistent structure with separate directories.
-3. **Code Quality**: Follow coding standards and comment code where necessary.
-4. **History and Versioning**: Use clear commit messages and branches for new additions.
-5. **Testing**: Include and run unit tests.
-6. **Security**: Do not include sensitive information and configure `.gitignore` appropriately.
-7. **Collaboration**: Follow the established contribution policy and review code.
-8. **Documentation**: Keep `README.md` updated and provide useful examples and tips.
+1. **Content**: Only include exercises and projects for study purposes. Do not add personal or commercial tasks.
+2. **Organization**: Maintain a clear and consistent folder structure with separate directories.
+3. **Code Quality**: Follow coding standards and add comments where necessary.
+4. **History and Versioning**: Use clear commit messages and create branches for new features or additions.
+5. **Testing**: Include and run unit tests whenever applicable.
+6. **Security**: Do not include sensitive data. Use a proper `.gitignore` configuration.
+7. **Collaboration**: Follow the contribution policy and review code as needed.
+8. **Documentation**: Keep the `README.md` up to date, and provide helpful examples and tips when appropriate.
 
-## What is Prohibited
+## What Is Prohibited
 
-1. **Sensitive Information**: Do not include personal data, passwords, API keys, or any confidential information in the repository.
-2. **Third-Party Code**: Do not add code that is not your own or not properly licensed for use. If using third-party code, ensure it is allowed and provide proper attribution.
-3. **Unrelated Changes**: Do not add tasks or projects that are not related to the goal of studying and practicing Java. Keep the focus on the proposed practices and exercises.
-4. **Unnecessary Files**: Avoid including temporary files, IDE-specific configuration files (such as Eclipse’s `.classpath` or `.project`), and other files not needed for the project's functionality.
-5. **Malicious or Inappropriate Code**: It is prohibited to include any code that is malicious, inappropriate, or could compromise the integrity and security of the repository.
-6. **Undocumented Changes**: Avoid making significant changes to the code without updating the corresponding documentation. Changes should be clearly documented in commits and in `README.md` when necessary.
+1. **Sensitive Information**: Never include personal data, passwords, API keys, or any confidential information in the repository.
+2. **Third-Party Code**: Do not add code that is not your own or not properly licensed. If using third-party code, ensure proper attribution and that the license allows usage.
+3. **Unrelated Changes**: Avoid adding tasks or projects unrelated to the goal of studying and practicing **Java** and **Python**.
+4. **Unnecessary Files**: Do not include temporary files, IDE-specific configurations (like `.classpath`, `.project`, `.idea`, etc.), or files unrelated to the project’s functionality.
+5. **Malicious or Inappropriate Code**: Do not add any code that is harmful, offensive, or that compromises the integrity and security of the repository.
+6. **Undocumented Changes**: Significant changes must be documented properly in commits and, when needed, in the `README.md`.
 
 ## How to Contribute
 
-1. Fork the repository.
+1. Fork this repository.
 2. Create a new branch (`git checkout -b new-branch`).
-3. Make your changes and add commits (`git commit -am 'Description of the change'`).
+3. Make your changes and commit them (`git commit -am 'Description of the change'`).
 4. Push the branch (`git push origin new-branch`).
-5. Create a Pull Request.
+5. Open a Pull Request.
 
 ## Contact
 
-For any questions, please direct message me.
+For any questions or suggestions, feel free to send me a direct message.
