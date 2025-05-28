@@ -1,6 +1,6 @@
 # Backend Study Repository
 
-This repository is dedicated to storing practical exercises and study projects focused on **Backend Development**. The goal is to deepen knowledge in server-side programming, databases, APIs, authentication, and system architecture through coursework, online learning, and hands-on practice.
+This repository is dedicated to storing practical exercises and study projects focused on **Backend Development using Java and Python**. The goal is to deepen knowledge in server-side programming, databases, APIs, authentication, and system architecture through coursework, online learning, and hands-on practice.
 
 ## Repository Structure
 
